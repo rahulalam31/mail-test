@@ -59,7 +59,7 @@ Node      18+
 Clone the project:
 
 ```bash
-git clone https://github.com/rahulalam31/mail-test>
+git clone https://github.com/rahulalam31/mail-test
 cd mail-test
 ```
 
