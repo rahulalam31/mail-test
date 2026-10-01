@@ -56,8 +56,8 @@ Node      18+
 Clone the project:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/rahulalam31/mail-test>
+cd mail-test
 ```
 
 Install PHP dependencies:
@@ -88,6 +88,7 @@ php artisan key:generate
 
 # 3. Database Configuration
 
+Use Default SQlite db for fast deploy. or you can configure Mysql below.
 Configure MySQL in `.env`:
 
 ```env
