@@ -1,5 +1,8 @@
 # Domain Intelligence Checker
 
+[Screencast from 2026-10-01 20-12-48.webm](https://github.com/user-attachments/assets/466cb742-369b-48d9-be06-ef264ea939b6)
+
+
 A Laravel-based domain intelligence and email infrastructure checker that provides:
 
 - DNS record inspection
